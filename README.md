@@ -33,14 +33,14 @@
 
     http://heqdx.lge.com/gitlab 주소로 접속하여 Register now 버튼을 누릅니다.
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d78d56d6-0469-49c9-ac17-3eb0ea4548f6/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d78d56d6-0469-49c9-ac17-3eb0ea4548f6/Untitled.png)
+![image](https://user-images.githubusercontent.com/27123002/116328176-63f06800-a803-11eb-8a4f-bbb98d72bf00.png)
 
 2. **GitLab 계정 등록 신청**
 
     해당되는 정보를 기입 후 Register 버튼을 누르면 가입 신청이 완료됩니다.
     이후 Root 계정 담당자의 가입 승인 후 사용 가능합니다.
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c2420328-0d6a-4cba-8619-1bcf86d5668d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c2420328-0d6a-4cba-8619-1bcf86d5668d/Untitled.png)
+![image](https://user-images.githubusercontent.com/27123002/116328246-91d5ac80-a803-11eb-918d-5198fc22fe90.png)
 
 ### SSH Key 등록
 
@@ -48,7 +48,7 @@
 
     계정에 로그인 후 우측 상단의 계정 정보를 클릭 한 뒤 Preferences 버튼을 클릭합니다.
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/67b4aa1d-43b0-4fce-9957-058122bfbe17/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/67b4aa1d-43b0-4fce-9957-058122bfbe17/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/27123002/116328319-b92c7980-a803-11eb-8676-58c4e857ef9e.png)
 
 2. **SSH Keys 이동 및 Key 등록**
 
@@ -58,7 +58,8 @@
 
     2-3. Add key 버튼을 클릭합니다.
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd533465-6330-47ad-ab00-a2e4d00ee1b7/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd533465-6330-47ad-ab00-a2e4d00ee1b7/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/27123002/116328292-aa45c700-a803-11eb-9adc-8ffd256c23ba.png)
+
 
 ### **형상관리**
 
